@@ -1,0 +1,8 @@
+input[id="user-name"]
+input[class="form_input"]
+input[placeholder="Username"]
+input[placeholder="Username"]
+.form_input+input (or) input[class="form_input"]+input
+button[class="btn_primary btn_inventory"] or button.btn_primary.btn_inventory
+a[href$=".html"]
+a[href*="saucelabs.com"]
